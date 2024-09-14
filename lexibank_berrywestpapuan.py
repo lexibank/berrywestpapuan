@@ -88,14 +88,12 @@ class Dataset(BaseDataset):
         errors = set()
         for entry in pb(data, desc="cldfify", total=len(data)):
             if entry["CONCEPT"] in concepts:
-                args.writer.add_form_with_segments(
+                args.writer.add_form(
                         Parameter_ID=concepts[entry["CONCEPT"]][0],
                         Language_ID=languages[entry["LANGUAGE"]],
                         Local_ID=entry["LOCAL_ID"],
                         Value=entry["VALUE"],
-                        Form=entry["FORM"],
-                        Segments=lingpy.ipa2tokens(entry["FORM"].replace(" ",
-                                                                         "+")),
+                        Form=entry["FORM"].replace(" ", "_"),
                         Source="Berry1987[{0}]".format(concepts[entry["CONCEPT"]][1])
                         )
             else:

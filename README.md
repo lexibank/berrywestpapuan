@@ -20,8 +20,8 @@ Available online at https://www.sil.org/resources/archives/37738
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 79%](https://img.shields.io/badge/BIPA-79%25-yellow.svg "BIPA: 79%")
-![CLTS SoundClass: 79%](https://img.shields.io/badge/CLTS%20SoundClass-79%25-yellow.svg "CLTS SoundClass: 79%")
+![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
+![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 10
 - **Concepts:** 195
@@ -29,9 +29,9 @@ Available online at https://www.sil.org/resources/archives/37738
 - **Sources:** 19
 - **Synonymy:** 1.01
 - **Invalid lexemes:** 0
-- **Tokens:** 7,909
-- **Segments:** 89 (19 BIPA errors, 19 CLTS sound class errors, 70 CLTS modified)
-- **Inventory size (avg):** 39.90
+- **Tokens:** 8,134
+- **Segments:** 54 (0 BIPA errors, 0 CLTS sound class errors, 54 CLTS modified)
+- **Inventory size (avg):** 30.40
 
 # Contributors
 
