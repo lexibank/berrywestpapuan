@@ -5,11 +5,38 @@
         "cldf:Wordlist",
         "linguistics"
     ],
-    "creators": [],
+    "creators": [
+        {
+            "name": "Berry, Christine"
+        },
+        {
+            "name": "Berry, Keith"
+        }
+    ],
     "contributors": [
         {
+            "name": "David Kamholz",
+            "type": "DataCurator"
+        },
+        {
+            "name": "Anne van Schie",
+            "type": "DataCurator"
+        },
+        {
+            "name": "Allahverdi Verdizade",
+            "type": "DataCurator"
+        },
+        {
+            "name": "Maria Zielenbach",
+            "type": "DataCurator"
+        },
+        {
+            "name": "Antoinette Schapper",
+            "type": "DataCurator"
+        },
+        {
             "name": "Johann-Mattis List",
-            "type": "Other"
+            "type": "Editor"
         }
     ],
     "communities": [

@@ -3,7 +3,7 @@ import attr
 from clldutils.misc import slug
 from pylexibank import Dataset as BaseDataset
 from pylexibank import progressbar as pb
-from pylexibank import Language, Concept
+from pylexibank import Language, Concept, Lexeme
 from pylexibank import FormSpec
 import re
 import lingpy
@@ -20,12 +20,18 @@ class CustomLanguage(Language):
     ID_in_Source = attr.ib(default=None)
 
 
+@attr.s
+class CustomLexeme(Lexeme):
+    Digital_Source = attr.ib(default=None)
+
+
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "berrywestpapuan"
     form_spec = FormSpec(separators="~;,/", missing_data=["-"], first_form_only=True)
     concept_class = CustomConcept
     language_class = CustomLanguage
+    lexeme_class = CustomLexeme
 
     def cmd_download(self, args):
         lines = []
@@ -94,10 +100,11 @@ class Dataset(BaseDataset):
                         Local_ID=entry["LOCAL_ID"],
                         Value=entry["VALUE"],
                         Form=entry["FORM"].replace(" ", "_"),
-                        Source="Berry1987[{0}]".format(concepts[entry["CONCEPT"]][1])
+                        Source="Berry1987[{0}]".format(concepts[entry["CONCEPT"]][1]),
+                        Digital_Source = "https://database.outofpapua.com/" + entry["LOCAL_ID"]
                         )
             else:
                 errors.add(entry["CONCEPT"])
         for err in errors:
-            print(err)
+            args.log.info("Erroneous Mapping: " + err)
 

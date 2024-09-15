@@ -1,11 +1,11 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Name_in_Source,ID_in_Source
-Seget,Seget,sege1235,,sbg,,,,,Seget,47
-Moi,Moi,moii1235,,mxn,,,,,Moi,48
-Moraid,Moraid,mora1239,,msg,,,,,Salkma,49
-Kalabra,Kalabra,kala1256,,kzz,,,,,Kalabra,50
-Salmit,Salmit,tehi1237,,kps,,,,,Tehit Salmit,51
-Sawiat,Sawiat,tehi1237,,kps,,,,,Tehit Sawiat,52
-Tehijit,Tehijit,tehi1237,,kps,,,,,Tehit Tehijit,53
-AbunJi,Abun Ji,abun1252,,kgr,,,,,Abun Ji,54
-AbunTat,Abun Tat,abun1252,,kgr,,,,,Abun Tat,55
-As,As,asss1237,,asz,,,,,As,56
+Seget,Seget,sege1235,Seget,sbg,Papunesia,-1.36931,131.218,West Bird's Head,Seget,47
+Moi,Moi,moii1235,Moi (Indonesia),mxn,Papunesia,-0.96532,131.52,West Bird's Head,Moi,48
+Moraid,Moraid,mora1239,Moraid,msg,Papunesia,-1.04083,131.965,West Bird's Head,Salkma,49
+Kalabra,Kalabra,kala1256,Kalabra,kzz,Papunesia,-1.43074,131.617,West Bird's Head,Kalabra,50
+Salmit,Salmit,tehi1237,Tehit,kps,Papunesia,-1.51049,131.985,West Bird's Head,Tehit Salmit,51
+Sawiat,Sawiat,tehi1237,Tehit,kps,Papunesia,-1.51049,131.985,West Bird's Head,Tehit Sawiat,52
+Tehijit,Tehijit,tehi1237,Tehit,kps,Papunesia,-1.51049,131.985,West Bird's Head,Tehit Tehijit,53
+AbunJi,Abun Ji,abun1252,Abun,kgr,Papunesia,-0.57073,132.416,Abun,Abun Ji,54
+AbunTat,Abun Tat,abun1252,Abun,kgr,Papunesia,-0.57073,132.416,Abun,Abun Tat,55
+As,As,asss1237,As,asz,Papunesia,-0.75267,131.728,Austronesian,As,56
