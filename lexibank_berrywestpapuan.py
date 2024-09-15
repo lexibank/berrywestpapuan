@@ -101,7 +101,7 @@ class Dataset(BaseDataset):
                         Value=entry["VALUE"],
                         Form=entry["FORM"].replace(" ", "_"),
                         Source="Berry1987[{0}]".format(concepts[entry["CONCEPT"]][1]),
-                        Digital_Source = "https://database.outofpapua.com/" + entry["LOCAL_ID"]
+                        Digital_Source = "https://database.outofpapua.com" + entry["LOCAL_ID"]
                         )
             else:
                 errors.add(entry["CONCEPT"])
