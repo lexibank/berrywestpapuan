@@ -1,196 +1,196 @@
-NUMBER	ENGLISH	LEXIBANK_GLOSS	INDONESIAN	CLASSIFICATION	PAGE	LOCATOR
-1	abdomen	abdomen	perut	NOUNS / Body Parts	62	44
-2	back	back	punggung	NOUNS / Body Parts	62	44
-3	blood	blood	darah	NOUNS / Body Parts	62	44
-4	body hair	body hair	bulu badan	NOUNS / Body Parts	62	44
-5	bone	bone	tulang	NOUNS / Body Parts	63	45
-6	breast	breast	susu	NOUNS / Body Parts	63	45
-7	ear	ear	telinga	NOUNS / Body Parts	63	45
-8	elbow	elbow	siku	NOUNS / Body Parts	63	45
-9	eye	eye	mata	NOUNS / Body Parts	63	45
-10	finger	finger	jari	NOUNS / Body Parts	63	45
-11	hair (head)	hair (head)	rambut	NOUNS / Body Parts	63	45
-12	hand	hand	tangan	NOUNS / Body Parts	63	45
-13	head	head	kepala	NOUNS / Body Parts	63	45
-14	heart	heart	jantung	NOUNS / Body Parts	63	45
-15	leg/foot	leg, foot	kaki	NOUNS / Body Parts	63	45
-16	meat/flesh	meat, flesh	daging	NOUNS / Body Parts	63	45
-17	mouth	mouth	mulut	NOUNS / Body Parts	64	46
-18	nail (finger)	nail (finger)	kuku	NOUNS / Body Parts	64	46
-19	neck	neck	leher	NOUNS / Body Parts	64	46
-20	nose	nose	hidung	NOUNS / Body Parts	64	46
-21	skin	skin	kulit	NOUNS / Body Parts	64	46
-22	teeth	teeth	gigi	NOUNS / Body Parts	64	46
-23	tongue	tongue	lidah	NOUNS / Body Parts	64	46
-24	bird	bird	burung	NOUNS / Animate Nouns	64	46
-25	cassowary	cassowary	kasuari	NOUNS / Animate Nouns	64	46
-26	child	child	anak	NOUNS / Animate Nouns	64	46
-27	dog	dog	anjing	NOUNS / Animate Nouns	64	46
-28	father	father	bapak	NOUNS / Animate Nouns	65	47
-29	female	female	perempuan	NOUNS / Animate Nouns	65	47
-30	fish	fish	ikan	NOUNS / Animate Nouns	65	47
-31	fly	fly	lalat	NOUNS / Animate Nouns	65	47
-32	husband	husband	suami	NOUNS / Animate Nouns	65	47
-33	leech	leech	lintah	NOUNS / Animate Nouns	65	47
-34	louse	louse	kutu	NOUNS / Animate Nouns	65	47
-35	male	male	laki-laki	NOUNS / Animate Nouns	65	47
-36	mosquito	mosquito	nyamuk	NOUNS / Animate Nouns	65	47
-37	mother	mother	ibu	NOUNS / Animate Nouns	65	47
-38	person	person	orang	NOUNS / Animate Nouns	65	47
-39	pig	pig	babi	NOUNS / Animate Nouns	65	47
-40	rat	rat	tikus	NOUNS / Animate Nouns	66	48
-41	snake	snake	ular	NOUNS / Animate Nouns	66	48
-42	tail	tail	ekor	NOUNS / Animate Nouns	66	48
-43	wife	wife	isteri	NOUNS / Animate Nouns	66	48
-44	wing	wing	sayap	NOUNS / Animate Nouns	66	48
-45	worm	worm	cacing (tanah)	NOUNS / Animate Nouns	66	48
-46	banana	banana	pisang	NOUNS / Inanimate Nouns	66	48
-47	branch	branch	cabang	NOUNS / Inanimate Nouns	66	48
-48	cloud	cloud	awan	NOUNS / Inanimate Nouns	66	48
-49	egg	egg	telur	NOUNS / Inanimate Nouns	66	48
-50	fire	fire	api	NOUNS / Inanimate Nouns	67	49
-51	fog	fog	kabut	NOUNS / Inanimate Nouns	67	49
-52	fruit	fruit	buah	NOUNS / Inanimate Nouns	67	49
-53	garden	garden	kebun	NOUNS / Inanimate Nouns	67	49
-54	grass	grass	alang-alang	NOUNS / Inanimate Nouns	67	49
-55	house	house	rumah	NOUNS / Inanimate Nouns	67	49
-56	jungle	jungle	hutan	NOUNS / Inanimate Nouns	67	49
-47	leaf	leaf	daun	NOUNS / Inanimate Nouns	67	49
-58	lightning	lightning	kilat	NOUNS / Inanimate Nouns	67	49
-59	moon	moon	bulan	NOUNS / Inanimate Nouns	67	49
-60	mountain	mountain	gunung	NOUNS / Inanimate Nouns	67	49
-61	name	name	nama	NOUNS / Inanimate Nouns	67	49
-62	night	night	malam	NOUNS / Inanimate Nouns	68	50
-63	path	path	jalan	NOUNS / Inanimate Nouns	68	50
-64	rain	rain	hujan	NOUNS / Inanimate Nouns	68	50
-65	roof	roof	atap	NOUNS / Inanimate Nouns	68	50
-66	rope	rope	tali	NOUNS / Inanimate Nouns	68	50
-67	salt	salt	garam	NOUNS / Inanimate Nouns	68	50
-68	sand	sand	pasir	NOUNS / Inanimate Nouns	68	50
-69	sea	sea	laut	NOUNS / Inanimate Nouns	68	50
-70	seed	seed	biji	NOUNS / Inanimate Nouns	68	50
-71	sky	sky	langit	NOUNS / Inanimate Nouns	68	50
-72	smoke	smoke	asap	NOUNS / Inanimate Nouns	68	50
-73	soil/earth	soil, earth	tanah	NOUNS / Inanimate Nouns	68	50
-74	star	star	bintang	NOUNS / Inanimate Nouns	69	51
-75	stone	stone	batu	NOUNS / Inanimate Nouns	69	51
-76	stick	stick	tongkat	NOUNS / Inanimate Nouns	69	51
-77	sun	sun	matahari	NOUNS / Inanimate Nouns	69	51
-78	thorn	thorn	duri	NOUNS / Inanimate Nouns	69	51
-79	thunder	thunder	guntur	NOUNS / Inanimate Nouns	69	51
-80	tree	tree	pohon/kayu	NOUNS / Inanimate Nouns	69	51
-81	water	water	air	NOUNS / Inanimate Nouns	69	51
-82	wind	wind	angin	NOUNS / Inanimate Nouns	69	51
-83	I	I	saya	PRONOUNS	70	52
-84	you (s)	you (s)	kamu	PRONOUNS	70	52
-85	he/she	he, she	dia	PRONOUNS	70	52
-86	we	we (incl)	kita	PRONOUNS	70	52
-87	they	they	mereka	PRONOUNS	70	52
-88	one	one	satu	MODIFIERS / Numerals	70	52
-89	two	two	dua	MODIFIERS / Numerals	70	52
-90	three	three	tiga	MODIFIERS / Numerals	70	52
-91	four	four	empat	MODIFIERS / Numerals	70	52
-92	five	five	lima	MODIFIERS / Numerals	71	53
-93	six	six	enam	MODIFIERS / Numerals	71	53
-94	seven	seven	tujuh	MODIFIERS / Numerals	71	53
-95	eight	eight	delapan	MODIFIERS / Numerals	71	53
-96	nine	nine	sembilan	MODIFIERS / Numerals	71	53
-97	ten	ten	sepuluh	MODIFIERS / Numerals	71	53
-98	black	black	hitam	MODIFIERS / Colours	71	53
-99	green	green	hijau	MODIFIERS / Colours	71	53
-100	red	red	merah	MODIFIERS / Colours	71	53
-101	yellow	yellow	kuning	MODIFIERS / Colours	71	53
-102	white	white	putih	MODIFIERS / Colours	72	54
-103	all	all	semua	MODIFIERS / Other Modifiers	72	54
-104	blunt (stick)	blunt (stick)	tumpul	MODIFIERS / Other Modifiers	72	54
-105	cold (wind)	cold (wind)	dingin	MODIFIERS / Other Modifiers	72	54
-106	different	different	berbeda	MODIFIERS / Other Modifiers	72	54
-107	dirty (hands)	dirty (hands)	kotor	MODIFIERS / Other Modifiers	72	54
-108	dry (grass)	dry (grass)	kering	MODIFIERS / Other Modifiers	72	54
-109	evil (person)	evil (person)	jahat	MODIFIERS / Other Modifiers	72	54
-110	few (stones)	few (stones)	sedikit	MODIFIERS / Other Modifiers	72	54
-111	full (bucket)	full (bucket)	penuh	MODIFIERS / Other Modifiers	73	55
-112	good (person)	good (person)	baik	MODIFIERS / Other Modifiers	73	55
-113	heavy (stone)	heavy (stone)	berat	MODIFIERS / Other Modifiers	73	55
-114	hot (wind)	hot (wind)	panas	MODIFIERS / Other Modifiers	73	55
-115	large (dog)	large (dog)	besar	MODIFIERS / Other Modifiers	73	55
-116	long (snake)	long (snake)	panjang	MODIFIERS / Other Modifiers	73	55
-117	many	many	banyak	MODIFIERS / Other Modifiers	73	55
-118	narrow (path)	narrow (path)	sempit	MODIFIERS / Other Modifiers	73	55
-119	new (house)	new (house)	baru	MODIFIERS / Other Modifiers	73	55
-120	not	not	tidak	MODIFIERS / Other Modifiers	73	55
-121	old (house)	old (house)	lama	MODIFIERS / Other Modifiers	73	55
-122	rotten (fruit)	rotten (fruit)	busuk	MODIFIERS / Other Modifiers	73	55
-123	same	same	sama	MODIFIERS / Other Modifiers	74	56
-124	sharp (stick)	sharp (stick)	tajam	MODIFIERS / Other Modifiers	74	56
-125	short (snake)	short (snake)	pendek	MODIFIERS / Other Modifiers	74	56
-126	small (dog)	small (dog)	kecil	MODIFIERS / Other Modifiers	74	56
-127	smooth (stone)	smooth (stone)	licin	MODIFIERS / Other Modifiers	74	56
-128	sore (leg)	sore (leg)	sakit	MODIFIERS / Other Modifiers	74	56
-129	straight (stick)	straight (stick)	lurus	MODIFIERS / Other Modifiers	74	56
-130	swollen (leg)	swollen (leg)	bengkak	MODIFIERS / Other Modifiers	74	56
-131	that	that	itu	MODIFIERS / Other Modifiers	74	56
-123	thick (stick)	thick (stick)	tebal	MODIFIERS / Other Modifiers	74	56
-133	thin (stick)	thin (stick)	tipis	MODIFIERS / Other Modifiers	74	56
-134	this	this	ini	MODIFIERS / Other Modifiers	74	56
-135	truly/well (to speak)	truly, well (to speak)	benar	MODIFIERS / Other Modifiers	75	57
-136	wet (sand)	wet (sand)	basah	MODIFIERS / Other Modifiers	75	57
-137	wide (path)	wide (path)	lebar	MODIFIERS / Other Modifiers	75	57
-138	afraid	afraid	takut	VERBS	75	57
-139	ashamed	ashamed	malu	VERBS	75	57
-140	bathe	bathe	mandi	VERBS	75	57
-141	blow	blow	tiup	VERBS	75	57
-142	breathe	breathe	bernapas	VERBS	75	57
-143	come	come	datang	VERBS	75	57
-144	cough	cough	batuk	VERBS	75	57
-145	count	count	hitung	VERBS	75	57
-146	cry	cry	menangis	VERBS	76	58
-147	cut (grass)	cut (grass)	membabat	VERBS	76	58
-148	die	die	mati	VERBS	76	58
-149	dig	dig	gali	VERBS	76	58
-150	dream	dream	mimpi	VERBS	76	58
-151	drink	drink	minum	VERBS	76	58
-152	eat	eat	makan	VERBS	76	58
-153	fall	fall	jatuh	VERBS	76	58
-154	flow (river)	flow (river)	mengalir	VERBS	76	58
-155	fly (bird)	fly (bird)	terbang	VERBS	76	58
-156	give	give	memberi	VERBS	76	58
-157	hear	hear	dengar	VERBS	76	58
-158	hit	hit	pukul	VERBS	77	59
-159	hold	hold	pegang	VERBS	77	59
-160	kill	kill	bunuh	VERBS	77	59
-161	know	know	tahu	VERBS	77	59
-162	live	live	hidup	VERBS	77	59
-163	play	play	bermain	VERBS	77	59
-164	pull	pull	menarik	VERBS	77	59
-165	push	push	mendorong	VERBS	77	59
-166	rub	rub	menggosok	VERBS	77	59
-167	see	see	lihat	VERBS	77	59
-168	seek	seek	cari	VERBS	77	59
-169	scratch	scratch	garuk	VERBS	77	59
-170	shoot (pig)	shoot (pig)	memanah	VERBS	78	60
-171	sing	sing	menyanyi	VERBS	78	60
-172	sit	sit	duduk	VERBS	78	60
-173	sleep	sleep	tidur	VERBS	78	60
-174	speak	speak	bicara	VERBS	78	60
-175	spit	spit	meludah	VERBS	78	60
-176	split (wood)	split (wood)	membelah	VERBS	78	60
-177	stab	stab	tikam	VERBS	78	60
-178	stand	stand	berdiri	VERBS	78	60
-179	stink	stink	berbau	VERBS	78	60
-180	suck	suck	isap	VERBS	78	60
-181	throw (stone)	throw (stone)	melempar	VERBS	78	60
-182	tie (rope)	tie (rope)	mengikat	VERBS	79	61
-183	vomit	vomit	muntah	VERBS	79	61
-184	walk	walk	berjalan	VERBS	79	61
-185	wash (clothes)	wash (clothes)	mencuci	VERBS	79	61
-186	what	what	apa	INTERROGATIVES	79	61
-187	who	who	siapa	INTERROGATIVES	79	61
-188	at	at	di	LOCATIVES	79	61
-189	far	far	jauh	LOCATIVES	79	61
-190	in front	in front	di depan	LOCATIVES	79	61
-191	inside	inside	di dalam	LOCATIVES	79	61
-192	left side	left side	kiri	LOCATIVES	80	62
-193	near	near	dekat	LOCATIVES	80	62
-194	outside	outside	di luar	LOCATIVES	80	62
-195	right side	right side	kanan	LOCATIVES	80	62
+NUMBER	ENGLISH	LEXIBANK_GLOSS	INDONESIAN	CLASSIFICATION	PAGE	LOCATOR	CONCEPTICON_ID	CONCEPTICON_GLOSS
+1	abdomen	abdomen	perut	NOUNS / Body Parts	62	44	1251	BELLY
+2	back	back	punggung	NOUNS / Body Parts	62	44	1291	BACK
+3	blood	blood	darah	NOUNS / Body Parts	62	44	946	BLOOD
+4	body hair	body hair	bulu badan	NOUNS / Body Parts	62	44	189	HAIR (BODY)
+5	bone	bone	tulang	NOUNS / Body Parts	63	45	1394	BONE
+6	breast	breast	susu	NOUNS / Body Parts	63	45	1402	BREAST
+7	ear	ear	telinga	NOUNS / Body Parts	63	45	1247	EAR
+8	elbow	elbow	siku	NOUNS / Body Parts	63	45	981	ELBOW
+9	eye	eye	mata	NOUNS / Body Parts	63	45	1248	EYE
+10	finger	finger	jari	NOUNS / Body Parts	63	45	1303	FINGER
+11	hair (head)	hair (head)	rambut	NOUNS / Body Parts	63	45	2648	HAIR (HEAD)
+12	hand	hand	tangan	NOUNS / Body Parts	63	45	1277	HAND
+13	head	head	kepala	NOUNS / Body Parts	63	45	1256	HEAD
+14	heart	heart	jantung	NOUNS / Body Parts	63	45	1223	HEART
+15	leg/foot	leg, foot	kaki	NOUNS / Body Parts	63	45	2098	FOOT OR LEG
+16	meat/flesh	meat, flesh	daging	NOUNS / Body Parts	63	45	2615	FLESH OR MEAT
+17	mouth	mouth	mulut	NOUNS / Body Parts	64	46	674	MOUTH
+18	nail (finger)	nail (finger)	kuku	NOUNS / Body Parts	64	46	1258	FINGERNAIL
+19	neck	neck	leher	NOUNS / Body Parts	64	46	1333	NECK
+20	nose	nose	hidung	NOUNS / Body Parts	64	46	1221	NOSE
+21	skin	skin	kulit	NOUNS / Body Parts	64	46	763	SKIN
+22	teeth	teeth	gigi	NOUNS / Body Parts	64	46	1380	TOOTH
+23	tongue	tongue	lidah	NOUNS / Body Parts	64	46	1205	TONGUE
+24	bird	bird	burung	NOUNS / Animate Nouns	64	46	937	BIRD
+25	cassowary	cassowary	kasuari	NOUNS / Animate Nouns	64	46	466	CASSOWARY
+26	child	child	anak	NOUNS / Animate Nouns	64	46	2099	CHILD
+27	dog	dog	anjing	NOUNS / Animate Nouns	64	46	2009	DOG
+28	father	father	bapak	NOUNS / Animate Nouns	65	47	1217	FATHER
+29	female	female	perempuan	NOUNS / Animate Nouns	65	47	2105	FEMALE PERSON
+30	fish	fish	ikan	NOUNS / Animate Nouns	65	47	227	FISH
+31	fly	fly	lalat	NOUNS / Animate Nouns	65	47	1504	FLY (INSECT)
+32	husband	husband	suami	NOUNS / Animate Nouns	65	47	1200	HUSBAND
+33	leech	leech	lintah	NOUNS / Animate Nouns	65	47	949	WATER LEECH
+34	louse	louse	kutu	NOUNS / Animate Nouns	65	47	1392	LOUSE
+35	male	male	laki-laki	NOUNS / Animate Nouns	65	47	2106	MALE PERSON
+36	mosquito	mosquito	nyamuk	NOUNS / Animate Nouns	65	47	1509	MOSQUITO
+37	mother	mother	ibu	NOUNS / Animate Nouns	65	47	1216	MOTHER
+38	person	person	orang	NOUNS / Animate Nouns	65	47	683	PERSON
+39	pig	pig	babi	NOUNS / Animate Nouns	65	47	1337	PIG
+40	rat	rat	tikus	NOUNS / Animate Nouns	66	48	1490	RAT
+41	snake	snake	ular	NOUNS / Animate Nouns	66	48	730	SNAKE
+42	tail	tail	ekor	NOUNS / Animate Nouns	66	48	1220	TAIL
+43	wife	wife	isteri	NOUNS / Animate Nouns	66	48	1199	WIFE
+44	wing	wing	sayap	NOUNS / Animate Nouns	66	48	1257	WING
+45	worm	worm	cacing (tanah)	NOUNS / Animate Nouns	66	48	1219	WORM
+46	banana	banana	pisang	NOUNS / Inanimate Nouns	66	48	868	BANANA
+47	branch	branch	cabang	NOUNS / Inanimate Nouns	66	48	1531	BRANCH
+48	cloud	cloud	awan	NOUNS / Inanimate Nouns	66	48	1489	CLOUD
+49	egg	egg	telur	NOUNS / Inanimate Nouns	66	48	744	EGG
+50	fire	fire	api	NOUNS / Inanimate Nouns	67	49	221	FIRE
+51	fog	fog	kabut	NOUNS / Inanimate Nouns	67	49	249	FOG
+52	fruit	fruit	buah	NOUNS / Inanimate Nouns	67	49	1507	FRUIT
+53	garden	garden	kebun	NOUNS / Inanimate Nouns	67	49	586	GARDEN
+54	grass	grass	alang-alang	NOUNS / Inanimate Nouns	67	49	606	GRASS
+55	house	house	rumah	NOUNS / Inanimate Nouns	67	49	1252	HOUSE
+56	jungle	jungle	hutan	NOUNS / Inanimate Nouns	67	49	3808	JUNGLE
+47	leaf	leaf	daun	NOUNS / Inanimate Nouns	67	49	628	LEAF
+58	lightning	lightning	kilat	NOUNS / Inanimate Nouns	67	49	1654	LIGHTNING
+59	moon	moon	bulan	NOUNS / Inanimate Nouns	67	49	1313	MOON
+60	mountain	mountain	gunung	NOUNS / Inanimate Nouns	67	49	639	MOUNTAIN
+61	name	name	nama	NOUNS / Inanimate Nouns	67	49	1405	NAME
+62	night	night	malam	NOUNS / Inanimate Nouns	68	50	1233	NIGHT
+63	path	path	jalan	NOUNS / Inanimate Nouns	68	50	2252	PATH
+64	rain	rain	hujan	NOUNS / Inanimate Nouns	68	50	658	RAIN (PRECIPITATION)
+65	roof	roof	atap	NOUNS / Inanimate Nouns	68	50	769	ROOF
+66	rope	rope	tali	NOUNS / Inanimate Nouns	68	50	1218	ROPE
+67	salt	salt	garam	NOUNS / Inanimate Nouns	68	50	1274	SALT
+68	sand	sand	pasir	NOUNS / Inanimate Nouns	68	50	671	SAND
+69	sea	sea	laut	NOUNS / Inanimate Nouns	68	50	1474	SEA
+70	seed	seed	biji	NOUNS / Inanimate Nouns	68	50	714	SEED
+71	sky	sky	langit	NOUNS / Inanimate Nouns	68	50	1732	SKY
+72	smoke	smoke	asap	NOUNS / Inanimate Nouns	68	50	778	SMOKE (EXHAUST)
+73	soil/earth	soil, earth	tanah	NOUNS / Inanimate Nouns	68	50	1228	EARTH (SOIL)
+74	star	star	bintang	NOUNS / Inanimate Nouns	69	51	1430	STAR
+75	stone	stone	batu	NOUNS / Inanimate Nouns	69	51	857	STONE
+76	stick	stick	tongkat	NOUNS / Inanimate Nouns	69	51	1295	STICK
+77	sun	sun	matahari	NOUNS / Inanimate Nouns	69	51	1343	SUN
+78	thorn	thorn	duri	NOUNS / Inanimate Nouns	69	51	124	THORN
+79	thunder	thunder	guntur	NOUNS / Inanimate Nouns	69	51	1150	THUNDER
+80	tree	tree	pohon/kayu	NOUNS / Inanimate Nouns	69	51	906	TREE
+81	water	water	air	NOUNS / Inanimate Nouns	69	51	948	WATER
+82	wind	wind	angin	NOUNS / Inanimate Nouns	69	51	960	WIND
+83	I	I	saya	PRONOUNS	70	52	1209	I
+84	you (s)	you (s)	kamu	PRONOUNS	70	52	1215	THOU
+85	he/she	he, she	dia	PRONOUNS	70	52	2642	HE OR SHE
+86	we	we (incl)	kita	PRONOUNS	70	52	1131	WE (INCLUSIVE)
+87	they	they	mereka	PRONOUNS	70	52	817	THEY
+88	one	one	satu	MODIFIERS / Numerals	70	52	1493	ONE
+89	two	two	dua	MODIFIERS / Numerals	70	52	1498	TWO
+90	three	three	tiga	MODIFIERS / Numerals	70	52	492	THREE
+91	four	four	empat	MODIFIERS / Numerals	70	52	1500	FOUR
+92	five	five	lima	MODIFIERS / Numerals	71	53	493	FIVE
+93	six	six	enam	MODIFIERS / Numerals	71	53	1703	SIX
+94	seven	seven	tujuh	MODIFIERS / Numerals	71	53	1704	SEVEN
+95	eight	eight	delapan	MODIFIERS / Numerals	71	53	1705	EIGHT
+96	nine	nine	sembilan	MODIFIERS / Numerals	71	53	1483	NINE
+97	ten	ten	sepuluh	MODIFIERS / Numerals	71	53	1515	TEN
+98	black	black	hitam	MODIFIERS / Colours	71	53	163	BLACK
+99	green	green	hijau	MODIFIERS / Colours	71	53	1425	GREEN
+100	red	red	merah	MODIFIERS / Colours	71	53	156	RED
+101	yellow	yellow	kuning	MODIFIERS / Colours	71	53	1424	YELLOW
+102	white	white	putih	MODIFIERS / Colours	72	54	1335	WHITE
+103	all	all	semua	MODIFIERS / Other Modifiers	72	54	98	ALL
+104	blunt (stick)	blunt (stick)	tumpul	MODIFIERS / Other Modifiers	72	54	379	BLUNT
+105	cold (wind)	cold (wind)	dingin	MODIFIERS / Other Modifiers	72	54	1287	COLD
+106	different	different	berbeda	MODIFIERS / Other Modifiers	72	54	2504	DIFFERENT
+107	dirty (hands)	dirty (hands)	kotor	MODIFIERS / Other Modifiers	72	54	1230	DIRTY
+108	dry (grass)	dry (grass)	kering	MODIFIERS / Other Modifiers	72	54	1398	DRY
+109	evil (person)	evil (person)	jahat	MODIFIERS / Other Modifiers	72	54	45	EVIL
+110	few (stones)	few (stones)	sedikit	MODIFIERS / Other Modifiers	72	54	1242	FEW
+111	full (bucket)	full (bucket)	penuh	MODIFIERS / Other Modifiers	73	55	1429	FULL
+112	good (person)	good (person)	baik	MODIFIERS / Other Modifiers	73	55	1035	GOOD
+113	heavy (stone)	heavy (stone)	berat	MODIFIERS / Other Modifiers	73	55	1210	HEAVY
+114	hot (wind)	hot (wind)	panas	MODIFIERS / Other Modifiers	73	55	1286	HOT
+115	large (dog)	large (dog)	besar	MODIFIERS / Other Modifiers	73	55	1202	BIG
+116	long (snake)	long (snake)	panjang	MODIFIERS / Other Modifiers	73	55	1203	LONG
+117	many	many	banyak	MODIFIERS / Other Modifiers	73	55	1198	MANY
+118	narrow (path)	narrow (path)	sempit	MODIFIERS / Other Modifiers	73	55	1267	NARROW
+119	new (house)	new (house)	baru	MODIFIERS / Other Modifiers	73	55	1231	NEW
+120	not	not	tidak	MODIFIERS / Other Modifiers	73	55	1240	NOT
+121	old (house)	old (house)	lama	MODIFIERS / Other Modifiers	73	55	1229	OLD
+122	rotten (fruit)	rotten (fruit)	busuk	MODIFIERS / Other Modifiers	73	55	1728	ROTTEN
+123	same	same	sama	MODIFIERS / Other Modifiers	74	56	200	SAME
+124	sharp (stick)	sharp (stick)	tajam	MODIFIERS / Other Modifiers	74	56	1396	SHARP
+125	short (snake)	short (snake)	pendek	MODIFIERS / Other Modifiers	74	56	1645	SHORT
+126	small (dog)	small (dog)	kecil	MODIFIERS / Other Modifiers	74	56	1246	SMALL
+127	smooth (stone)	smooth (stone)	licin	MODIFIERS / Other Modifiers	74	56	1234	SMOOTH
+128	sore (leg)	sore (leg)	sakit	MODIFIERS / Other Modifiers	74	56	51	SORE
+129	straight (stick)	straight (stick)	lurus	MODIFIERS / Other Modifiers	74	56	1404	STRAIGHT
+130	swollen (leg)	swollen (leg)	bengkak	MODIFIERS / Other Modifiers	74	56	1573	SWELL
+131	that	that	itu	MODIFIERS / Other Modifiers	74	56	78	THAT
+123	thick (stick)	thick (stick)	tebal	MODIFIERS / Other Modifiers	74	56	1244	THICK
+133	thin (stick)	thin (stick)	tipis	MODIFIERS / Other Modifiers	74	56	2308	THIN
+134	this	this	ini	MODIFIERS / Other Modifiers	74	56	1214	THIS
+135	truly/well (to speak)	truly, well (to speak)	benar	MODIFIERS / Other Modifiers	75	57	1725	CORRECT (RIGHT)
+136	wet (sand)	wet (sand)	basah	MODIFIERS / Other Modifiers	75	57	1726	WET
+137	wide (path)	wide (path)	lebar	MODIFIERS / Other Modifiers	75	57	1243	WIDE
+138	afraid	afraid	takut	VERBS	75	57	1419	FEAR (BE AFRAID)
+139	ashamed	ashamed	malu	VERBS	75	57	1894	ASHAMED
+140	bathe	bathe	mandi	VERBS	75	57	138	BATHE
+141	blow	blow	tiup	VERBS	75	57	175	BLOW (OF WIND)
+142	breathe	breathe	bernapas	VERBS	75	57	1407	BREATHE
+143	come	come	datang	VERBS	75	57	1446	COME
+144	cough	cough	batuk	VERBS	75	57	879	COUGH
+145	count	count	hitung	VERBS	75	57	1420	COUNT
+146	cry	cry	menangis	VERBS	76	58	1839	CRY
+147	cut (grass)	cut (grass)	membabat	VERBS	76	58	1432	CUT
+148	die	die	mati	VERBS	76	58	1494	DIE
+149	dig	dig	gali	VERBS	76	58	1418	DIG
+150	dream	dream	mimpi	VERBS	76	58	1920	DREAM (SOMETHING)
+151	drink	drink	minum	VERBS	76	58	1401	DRINK
+152	eat	eat	makan	VERBS	76	58	1336	EAT
+153	fall	fall	jatuh	VERBS	76	58	1280	FALL
+154	flow (river)	flow (river)	mengalir	VERBS	76	58	2003	FLOW
+155	fly (bird)	fly (bird)	terbang	VERBS	76	58	1441	FLY (MOVE THROUGH AIR)
+156	give	give	memberi	VERBS	76	58	1447	GIVE
+157	hear	hear	dengar	VERBS	76	58	1408	HEAR
+158	hit	hit	pukul	VERBS	77	59	1433	HIT
+159	hold	hold	pegang	VERBS	77	59	1448	HOLD
+160	kill	kill	bunuh	VERBS	77	59	1417	KILL
+161	know	know	tahu	VERBS	77	59	1410	KNOW (SOMETHING)
+162	live	live	hidup	VERBS	77	59	1422	BE ALIVE
+163	play	play	bermain	VERBS	77	59	1413	PLAY
+164	pull	pull	menarik	VERBS	77	59	1455	PULL
+165	push	push	mendorong	VERBS	77	59	1452	PUSH
+166	rub	rub	menggosok	VERBS	77	59	1449	RUB
+167	see	see	lihat	VERBS	77	59	1409	SEE
+168	seek	seek	cari	VERBS	77	59	1468	LOOK FOR
+169	scratch	scratch	garuk	VERBS	77	59	1436	SCRATCH
+170	shoot (pig)	shoot (pig)	memanah	VERBS	78	60	1172	SHOOT
+171	sing	sing	menyanyi	VERBS	78	60	1261	SING
+172	sit	sit	duduk	VERBS	78	60	1416	SIT
+173	sleep	sleep	tidur	VERBS	78	60	1585	SLEEP
+174	speak	speak	bicara	VERBS	78	60	1623	SPEAK
+175	spit	spit	meludah	VERBS	78	60	1440	SPIT
+176	split (wood)	split (wood)	membelah	VERBS	78	60	1437	SPLIT
+177	stab	stab	tikam	VERBS	78	60	1434	STAB
+178	stand	stand	berdiri	VERBS	78	60	1442	STAND
+179	stink	stink	berbau	VERBS	78	60	1587	SMELL (STINK)
+180	suck	suck	isap	VERBS	78	60	1421	SUCK
+181	throw (stone)	throw (stone)	melempar	VERBS	78	60	1456	THROW
+182	tie (rope)	tie (rope)	mengikat	VERBS	79	61	1917	TIE
+183	vomit	vomit	muntah	VERBS	79	61	1278	VOMIT
+184	walk	walk	berjalan	VERBS	79	61	1443	WALK
+185	wash (clothes)	wash (clothes)	mencuci	VERBS	79	61	1453	WASH
+186	what	what	apa	INTERROGATIVES	79	61	1236	WHAT
+187	who	who	siapa	INTERROGATIVES	79	61	1235	WHO
+188	at	at	di	LOCATIVES	79	61	1461	AT
+189	far	far	jauh	LOCATIVES	79	61	1406	FAR
+190	in front	in front	di depan	LOCATIVES	79	61	1883	IN FRONT OF
+191	inside	inside	di dalam	LOCATIVES	79	61	1606	INSIDE
+192	left side	left side	kiri	LOCATIVES	80	62	244	LEFT
+193	near	near	dekat	LOCATIVES	80	62	1942	NEAR
+194	outside	outside	di luar	LOCATIVES	80	62	762	OUTSIDE
+195	right side	right side	kanan	LOCATIVES	80	62	1019	RIGHT
