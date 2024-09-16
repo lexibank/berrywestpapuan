@@ -16,6 +16,7 @@ Available online at https://www.sil.org/resources/archives/37738
 
 ## Notes
 
+The digital source was taken from the OUTOFWESTPAPUA database by [Kamholz et al. (2024)](https://database.outofpapua.com). For the CLDF conversion, the data was extended by new links to Glottolog, by adding a new orthography profile, and by providing consistent links of the concept list to [Concepticon](https://concepticon.clld.org). The digital go
 
 
 

@@ -76,7 +76,9 @@ class Dataset(BaseDataset):
             args.writer.add_concept(
                     ID=idx,
                     Name=concept["ENGLISH"],
-                    Indonesian_Gloss=concept["INDONESIAN"]
+                    Indonesian_Gloss=concept["INDONESIAN"],
+                    Concepticon_ID=concept["CONCEPTICON_ID"],
+                    Concepticon_Gloss=concept["CONCEPTICON_GLOSS"]
                     )
             concepts[concept["LEXIBANK_GLOSS"]] = (idx, concept["PAGE"])
 
