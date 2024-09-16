@@ -1,196 +1,196 @@
 ID,Name,Concepticon_ID,Concepticon_Gloss,Indonesian_Gloss
-1_abdomen,abdomen,,,perut
-2_back,back,,,punggung
-3_blood,blood,,,darah
-4_bodyhair,body hair,,,bulu badan
-5_bone,bone,,,tulang
-6_breast,breast,,,susu
-7_ear,ear,,,telinga
-8_elbow,elbow,,,siku
-9_eye,eye,,,mata
-10_finger,finger,,,jari
-11_hairhead,hair (head),,,rambut
-12_hand,hand,,,tangan
-13_head,head,,,kepala
-14_heart,heart,,,jantung
-15_legfoot,leg/foot,,,kaki
-16_meatflesh,meat/flesh,,,daging
-17_mouth,mouth,,,mulut
-18_nailfinger,nail (finger),,,kuku
-19_neck,neck,,,leher
-20_nose,nose,,,hidung
-21_skin,skin,,,kulit
-22_teeth,teeth,,,gigi
-23_tongue,tongue,,,lidah
-24_bird,bird,,,burung
-25_cassowary,cassowary,,,kasuari
-26_child,child,,,anak
-27_dog,dog,,,anjing
-28_father,father,,,bapak
-29_female,female,,,perempuan
-30_fish,fish,,,ikan
-31_fly,fly,,,lalat
-32_husband,husband,,,suami
-33_leech,leech,,,lintah
-34_louse,louse,,,kutu
-35_male,male,,,laki-laki
-36_mosquito,mosquito,,,nyamuk
-37_mother,mother,,,ibu
-38_person,person,,,orang
-39_pig,pig,,,babi
-40_rat,rat,,,tikus
-41_snake,snake,,,ular
-42_tail,tail,,,ekor
-43_wife,wife,,,isteri
-44_wing,wing,,,sayap
-45_worm,worm,,,cacing (tanah)
-46_banana,banana,,,pisang
-47_branch,branch,,,cabang
-48_cloud,cloud,,,awan
-49_egg,egg,,,telur
-50_fire,fire,,,api
-51_fog,fog,,,kabut
-52_fruit,fruit,,,buah
-53_garden,garden,,,kebun
-54_grass,grass,,,alang-alang
-55_house,house,,,rumah
-56_jungle,jungle,,,hutan
-47_leaf,leaf,,,daun
-58_lightning,lightning,,,kilat
-59_moon,moon,,,bulan
-60_mountain,mountain,,,gunung
-61_name,name,,,nama
-62_night,night,,,malam
-63_path,path,,,jalan
-64_rain,rain,,,hujan
-65_roof,roof,,,atap
-66_rope,rope,,,tali
-67_salt,salt,,,garam
-68_sand,sand,,,pasir
-69_sea,sea,,,laut
-70_seed,seed,,,biji
-71_sky,sky,,,langit
-72_smoke,smoke,,,asap
-73_soilearth,soil/earth,,,tanah
-74_star,star,,,bintang
-75_stone,stone,,,batu
-76_stick,stick,,,tongkat
-77_sun,sun,,,matahari
-78_thorn,thorn,,,duri
-79_thunder,thunder,,,guntur
-80_tree,tree,,,pohon/kayu
-81_water,water,,,air
-82_wind,wind,,,angin
-83_i,I,,,saya
-84_yous,you (s),,,kamu
-85_heshe,he/she,,,dia
-86_we,we,,,kita
-87_they,they,,,mereka
-88_one,one,,,satu
-89_two,two,,,dua
-90_three,three,,,tiga
-91_four,four,,,empat
-92_five,five,,,lima
-93_six,six,,,enam
-94_seven,seven,,,tujuh
-95_eight,eight,,,delapan
-96_nine,nine,,,sembilan
-97_ten,ten,,,sepuluh
-98_black,black,,,hitam
-99_green,green,,,hijau
-100_red,red,,,merah
-101_yellow,yellow,,,kuning
-102_white,white,,,putih
-103_all,all,,,semua
-104_bluntstick,blunt (stick),,,tumpul
-105_coldwind,cold (wind),,,dingin
-106_different,different,,,berbeda
-107_dirtyhands,dirty (hands),,,kotor
-108_drygrass,dry (grass),,,kering
-109_evilperson,evil (person),,,jahat
-110_fewstones,few (stones),,,sedikit
-111_fullbucket,full (bucket),,,penuh
-112_goodperson,good (person),,,baik
-113_heavystone,heavy (stone),,,berat
-114_hotwind,hot (wind),,,panas
-115_largedog,large (dog),,,besar
-116_longsnake,long (snake),,,panjang
-117_many,many,,,banyak
-118_narrowpath,narrow (path),,,sempit
-119_newhouse,new (house),,,baru
-120_not,not,,,tidak
-121_oldhouse,old (house),,,lama
-122_rottenfruit,rotten (fruit),,,busuk
-123_same,same,,,sama
-124_sharpstick,sharp (stick),,,tajam
-125_shortsnake,short (snake),,,pendek
-126_smalldog,small (dog),,,kecil
-127_smoothstone,smooth (stone),,,licin
-128_soreleg,sore (leg),,,sakit
-129_straightstick,straight (stick),,,lurus
-130_swollenleg,swollen (leg),,,bengkak
-131_that,that,,,itu
-123_thickstick,thick (stick),,,tebal
-133_thinstick,thin (stick),,,tipis
-134_this,this,,,ini
-135_trulywelltospeak,truly/well (to speak),,,benar
-136_wetsand,wet (sand),,,basah
-137_widepath,wide (path),,,lebar
-138_afraid,afraid,,,takut
-139_ashamed,ashamed,,,malu
-140_bathe,bathe,,,mandi
-141_blow,blow,,,tiup
-142_breathe,breathe,,,bernapas
-143_come,come,,,datang
-144_cough,cough,,,batuk
-145_count,count,,,hitung
-146_cry,cry,,,menangis
-147_cutgrass,cut (grass),,,membabat
-148_die,die,,,mati
-149_dig,dig,,,gali
-150_dream,dream,,,mimpi
-151_drink,drink,,,minum
-152_eat,eat,,,makan
-153_fall,fall,,,jatuh
-154_flowriver,flow (river),,,mengalir
-155_flybird,fly (bird),,,terbang
-156_give,give,,,memberi
-157_hear,hear,,,dengar
-158_hit,hit,,,pukul
-159_hold,hold,,,pegang
-160_kill,kill,,,bunuh
-161_know,know,,,tahu
-162_live,live,,,hidup
-163_play,play,,,bermain
-164_pull,pull,,,menarik
-165_push,push,,,mendorong
-166_rub,rub,,,menggosok
-167_see,see,,,lihat
-168_seek,seek,,,cari
-169_scratch,scratch,,,garuk
-170_shootpig,shoot (pig),,,memanah
-171_sing,sing,,,menyanyi
-172_sit,sit,,,duduk
-173_sleep,sleep,,,tidur
-174_speak,speak,,,bicara
-175_spit,spit,,,meludah
-176_splitwood,split (wood),,,membelah
-177_stab,stab,,,tikam
-178_stand,stand,,,berdiri
-179_stink,stink,,,berbau
-180_suck,suck,,,isap
-181_throwstone,throw (stone),,,melempar
-182_tierope,tie (rope),,,mengikat
-183_vomit,vomit,,,muntah
-184_walk,walk,,,berjalan
-185_washclothes,wash (clothes),,,mencuci
-186_what,what,,,apa
-187_who,who,,,siapa
-188_at,at,,,di
-189_far,far,,,jauh
-190_infront,in front,,,di depan
-191_inside,inside,,,di dalam
-192_leftside,left side,,,kiri
-193_near,near,,,dekat
-194_outside,outside,,,di luar
-195_rightside,right side,,,kanan
+1_abdomen,abdomen,1251,BELLY,perut
+2_back,back,1291,BACK,punggung
+3_blood,blood,946,BLOOD,darah
+4_bodyhair,body hair,189,HAIR (BODY),bulu badan
+5_bone,bone,1394,BONE,tulang
+6_breast,breast,1402,BREAST,susu
+7_ear,ear,1247,EAR,telinga
+8_elbow,elbow,981,ELBOW,siku
+9_eye,eye,1248,EYE,mata
+10_finger,finger,1303,FINGER,jari
+11_hairhead,hair (head),2648,HAIR (HEAD),rambut
+12_hand,hand,1277,HAND,tangan
+13_head,head,1256,HEAD,kepala
+14_heart,heart,1223,HEART,jantung
+15_legfoot,leg/foot,2098,FOOT OR LEG,kaki
+16_meatflesh,meat/flesh,2615,FLESH OR MEAT,daging
+17_mouth,mouth,674,MOUTH,mulut
+18_nailfinger,nail (finger),1258,FINGERNAIL,kuku
+19_neck,neck,1333,NECK,leher
+20_nose,nose,1221,NOSE,hidung
+21_skin,skin,763,SKIN,kulit
+22_teeth,teeth,1380,TOOTH,gigi
+23_tongue,tongue,1205,TONGUE,lidah
+24_bird,bird,937,BIRD,burung
+25_cassowary,cassowary,466,CASSOWARY,kasuari
+26_child,child,2099,CHILD,anak
+27_dog,dog,2009,DOG,anjing
+28_father,father,1217,FATHER,bapak
+29_female,female,2105,FEMALE PERSON,perempuan
+30_fish,fish,227,FISH,ikan
+31_fly,fly,1504,FLY (INSECT),lalat
+32_husband,husband,1200,HUSBAND,suami
+33_leech,leech,949,WATER LEECH,lintah
+34_louse,louse,1392,LOUSE,kutu
+35_male,male,2106,MALE PERSON,laki-laki
+36_mosquito,mosquito,1509,MOSQUITO,nyamuk
+37_mother,mother,1216,MOTHER,ibu
+38_person,person,683,PERSON,orang
+39_pig,pig,1337,PIG,babi
+40_rat,rat,1490,RAT,tikus
+41_snake,snake,730,SNAKE,ular
+42_tail,tail,1220,TAIL,ekor
+43_wife,wife,1199,WIFE,isteri
+44_wing,wing,1257,WING,sayap
+45_worm,worm,1219,WORM,cacing (tanah)
+46_banana,banana,868,BANANA,pisang
+47_branch,branch,1531,BRANCH,cabang
+48_cloud,cloud,1489,CLOUD,awan
+49_egg,egg,744,EGG,telur
+50_fire,fire,221,FIRE,api
+51_fog,fog,249,FOG,kabut
+52_fruit,fruit,1507,FRUIT,buah
+53_garden,garden,586,GARDEN,kebun
+54_grass,grass,606,GRASS,alang-alang
+55_house,house,1252,HOUSE,rumah
+56_jungle,jungle,3808,JUNGLE,hutan
+47_leaf,leaf,628,LEAF,daun
+58_lightning,lightning,1654,LIGHTNING,kilat
+59_moon,moon,1313,MOON,bulan
+60_mountain,mountain,639,MOUNTAIN,gunung
+61_name,name,1405,NAME,nama
+62_night,night,1233,NIGHT,malam
+63_path,path,2252,PATH,jalan
+64_rain,rain,658,RAIN (PRECIPITATION),hujan
+65_roof,roof,769,ROOF,atap
+66_rope,rope,1218,ROPE,tali
+67_salt,salt,1274,SALT,garam
+68_sand,sand,671,SAND,pasir
+69_sea,sea,1474,SEA,laut
+70_seed,seed,714,SEED,biji
+71_sky,sky,1732,SKY,langit
+72_smoke,smoke,778,SMOKE (EXHAUST),asap
+73_soilearth,soil/earth,1228,EARTH (SOIL),tanah
+74_star,star,1430,STAR,bintang
+75_stone,stone,857,STONE,batu
+76_stick,stick,1295,STICK,tongkat
+77_sun,sun,1343,SUN,matahari
+78_thorn,thorn,124,THORN,duri
+79_thunder,thunder,1150,THUNDER,guntur
+80_tree,tree,906,TREE,pohon/kayu
+81_water,water,948,WATER,air
+82_wind,wind,960,WIND,angin
+83_i,I,1209,I,saya
+84_yous,you (s),1215,THOU,kamu
+85_heshe,he/she,2642,HE OR SHE,dia
+86_we,we,1131,WE (INCLUSIVE),kita
+87_they,they,817,THEY,mereka
+88_one,one,1493,ONE,satu
+89_two,two,1498,TWO,dua
+90_three,three,492,THREE,tiga
+91_four,four,1500,FOUR,empat
+92_five,five,493,FIVE,lima
+93_six,six,1703,SIX,enam
+94_seven,seven,1704,SEVEN,tujuh
+95_eight,eight,1705,EIGHT,delapan
+96_nine,nine,1483,NINE,sembilan
+97_ten,ten,1515,TEN,sepuluh
+98_black,black,163,BLACK,hitam
+99_green,green,1425,GREEN,hijau
+100_red,red,156,RED,merah
+101_yellow,yellow,1424,YELLOW,kuning
+102_white,white,1335,WHITE,putih
+103_all,all,98,ALL,semua
+104_bluntstick,blunt (stick),379,BLUNT,tumpul
+105_coldwind,cold (wind),1287,COLD,dingin
+106_different,different,2504,DIFFERENT,berbeda
+107_dirtyhands,dirty (hands),1230,DIRTY,kotor
+108_drygrass,dry (grass),1398,DRY,kering
+109_evilperson,evil (person),45,EVIL,jahat
+110_fewstones,few (stones),1242,FEW,sedikit
+111_fullbucket,full (bucket),1429,FULL,penuh
+112_goodperson,good (person),1035,GOOD,baik
+113_heavystone,heavy (stone),1210,HEAVY,berat
+114_hotwind,hot (wind),1286,HOT,panas
+115_largedog,large (dog),1202,BIG,besar
+116_longsnake,long (snake),1203,LONG,panjang
+117_many,many,1198,MANY,banyak
+118_narrowpath,narrow (path),1267,NARROW,sempit
+119_newhouse,new (house),1231,NEW,baru
+120_not,not,1240,NOT,tidak
+121_oldhouse,old (house),1229,OLD,lama
+122_rottenfruit,rotten (fruit),1728,ROTTEN,busuk
+123_same,same,200,SAME,sama
+124_sharpstick,sharp (stick),1396,SHARP,tajam
+125_shortsnake,short (snake),1645,SHORT,pendek
+126_smalldog,small (dog),1246,SMALL,kecil
+127_smoothstone,smooth (stone),1234,SMOOTH,licin
+128_soreleg,sore (leg),51,SORE,sakit
+129_straightstick,straight (stick),1404,STRAIGHT,lurus
+130_swollenleg,swollen (leg),1573,SWELL,bengkak
+131_that,that,78,THAT,itu
+123_thickstick,thick (stick),1244,THICK,tebal
+133_thinstick,thin (stick),2308,THIN,tipis
+134_this,this,1214,THIS,ini
+135_trulywelltospeak,truly/well (to speak),1725,CORRECT (RIGHT),benar
+136_wetsand,wet (sand),1726,WET,basah
+137_widepath,wide (path),1243,WIDE,lebar
+138_afraid,afraid,1419,FEAR (BE AFRAID),takut
+139_ashamed,ashamed,1894,ASHAMED,malu
+140_bathe,bathe,138,BATHE,mandi
+141_blow,blow,175,BLOW (OF WIND),tiup
+142_breathe,breathe,1407,BREATHE,bernapas
+143_come,come,1446,COME,datang
+144_cough,cough,879,COUGH,batuk
+145_count,count,1420,COUNT,hitung
+146_cry,cry,1839,CRY,menangis
+147_cutgrass,cut (grass),1432,CUT,membabat
+148_die,die,1494,DIE,mati
+149_dig,dig,1418,DIG,gali
+150_dream,dream,1920,DREAM (SOMETHING),mimpi
+151_drink,drink,1401,DRINK,minum
+152_eat,eat,1336,EAT,makan
+153_fall,fall,1280,FALL,jatuh
+154_flowriver,flow (river),2003,FLOW,mengalir
+155_flybird,fly (bird),1441,FLY (MOVE THROUGH AIR),terbang
+156_give,give,1447,GIVE,memberi
+157_hear,hear,1408,HEAR,dengar
+158_hit,hit,1433,HIT,pukul
+159_hold,hold,1448,HOLD,pegang
+160_kill,kill,1417,KILL,bunuh
+161_know,know,1410,KNOW (SOMETHING),tahu
+162_live,live,1422,BE ALIVE,hidup
+163_play,play,1413,PLAY,bermain
+164_pull,pull,1455,PULL,menarik
+165_push,push,1452,PUSH,mendorong
+166_rub,rub,1449,RUB,menggosok
+167_see,see,1409,SEE,lihat
+168_seek,seek,1468,LOOK FOR,cari
+169_scratch,scratch,1436,SCRATCH,garuk
+170_shootpig,shoot (pig),1172,SHOOT,memanah
+171_sing,sing,1261,SING,menyanyi
+172_sit,sit,1416,SIT,duduk
+173_sleep,sleep,1585,SLEEP,tidur
+174_speak,speak,1623,SPEAK,bicara
+175_spit,spit,1440,SPIT,meludah
+176_splitwood,split (wood),1437,SPLIT,membelah
+177_stab,stab,1434,STAB,tikam
+178_stand,stand,1442,STAND,berdiri
+179_stink,stink,1587,SMELL (STINK),berbau
+180_suck,suck,1421,SUCK,isap
+181_throwstone,throw (stone),1456,THROW,melempar
+182_tierope,tie (rope),1917,TIE,mengikat
+183_vomit,vomit,1278,VOMIT,muntah
+184_walk,walk,1443,WALK,berjalan
+185_washclothes,wash (clothes),1453,WASH,mencuci
+186_what,what,1236,WHAT,apa
+187_who,who,1235,WHO,siapa
+188_at,at,1461,AT,di
+189_far,far,1406,FAR,jauh
+190_infront,in front,1883,IN FRONT OF,di depan
+191_inside,inside,1606,INSIDE,di dalam
+192_leftside,left side,244,LEFT,kiri
+193_near,near,1942,NEAR,dekat
+194_outside,outside,762,OUTSIDE,di luar
+195_rightside,right side,1019,RIGHT,kanan

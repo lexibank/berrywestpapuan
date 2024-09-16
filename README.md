@@ -16,7 +16,7 @@ Available online at https://www.sil.org/resources/archives/37738
 
 ## Notes
 
-The digital source was taken from the OUTOFWESTPAPUA database by [Kamholz et al. (2024)](https://database.outofpapua.com). For the CLDF conversion, the data was extended by new links to Glottolog, by adding a new orthography profile, and by providing consistent links of the concept list to [Concepticon](https://concepticon.clld.org). The digital go
+The digital source was taken from the OUTOFWESTPAPUA database by [Kamholz et al. (2024)](https://database.outofpapua.com). For the CLDF conversion, the data was extended by new links to Glottolog, by adding a new orthography profile, and by providing consistent links of the concept list to [Concepticon](https://concepticon.clld.org). Links to the database are given in the column `Digital_Source` in the CLDF FormTable (`forms.csv`). 
 
 
 
@@ -24,7 +24,7 @@ The digital source was taken from the OUTOFWESTPAPUA database by [Kamholz et al.
 
 
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
+![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
